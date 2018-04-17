@@ -102,4 +102,7 @@
 body{
   padding-top: 70px;
 }
-
+ //
+ /*.navbar-inverse{ */
+ /* background: #06337c; */
+/*} */
